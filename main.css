@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(102, 26, 51);
+  position: relative;
+  font-family: cursive;
+}
+.container-header {
+  background-color: rgb(172, 111, 131);
+  height: 139px;
+  width: 100%;
+  position: absolute;
+  margin-top: 30px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.container-body {
+  background-color: rgb(170, 112, 131);
+  height: 579px;
+  width: 100%;
+  position: absolute;
+  margin-top: 183px;
+}
+.input-name {
+  width: 70%;
+  padding: 15px 30px;
+  margin: 40px 70px;
+  border: none;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  font-size: 25px;
+  font-family: cursive;
+}
+
+.input-name:focus {
+  outline: 3px solid rgb(102, 26, 51);
+}
+
+.input-send {
+  background-color: rgb(102, 26, 51);
+  color: aliceblue;
+  width: 30%;
+  padding: 15px 30px;
+  margin: 40px 10px;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  font-size: 20px;
+  cursor: pointer;
+}
