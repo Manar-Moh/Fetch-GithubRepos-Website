@@ -1,2 +1,3 @@
 # Fetch-GithubRepos-Website
-Fetching GithubRepos by enter username.
+Fetching GithubRepos by entering username.
+Using HTML5,CSS3,JAVASCRIPT,Github API.
