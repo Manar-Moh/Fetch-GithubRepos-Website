@@ -21,6 +21,7 @@ body {
   width: 100%;
   position: absolute;
   margin-top: 183px;
+  overflow: auto;
 }
 .input-name {
   width: 70%;
@@ -53,4 +54,29 @@ body {
   -o-border-radius: 7px;
   font-size: 20px;
   cursor: pointer;
+}
+
+.emptyDiv {
+  color: aliceblue;
+  font-size: 26px;
+  position: absolute;
+  margin: 30px 81px;
+}
+
+.repo-box {
+  color: aliceblue;
+  font-size: 26px;
+  margin: 30px 73px;
+  background-color: rgb(102, 26, 51);
+  padding: 15px 76px;
+}
+
+.repo-link {
+  float: right;
+  margin-right: 70px;
+  color: rosybrown;
+}
+
+.repo-name {
+  margin-left: 15px;
 }
